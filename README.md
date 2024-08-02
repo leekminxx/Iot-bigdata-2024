@@ -47,7 +47,7 @@
 - 빅데이터 학습
     - 기초학습, 크롤링 관련
     - [뷰티플수프](https://github.com/leekminxx/Iot-bigdata-2024/blob/main/day2/dba04_beautifulsoup_basic.ipynb)
-    - [셀리니움] (https://github.com/leekminxx/Iot-bigdata-2024/blob/main/day2/dba05_selenium_basic.ipynb)
+    - [셀리니움](https://github.com/leekminxx/Iot-bigdata-2024/blob/main/day2/dba05_selenium_basic.ipynb)
 
 - 빅데이터 실습
     - 스타벅스 입지 분석
