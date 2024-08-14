@@ -122,7 +122,9 @@
     - 객체탐지(Object Detection)
     - OpenCV, YOLOv8
     - [YOLOv8](https://github.com/leekminxx/Iot-bigdata-2024/blob/main/day8/dba13_object_detection.ipynb)
-        
+
+    <ung src='' width="700">   
+
 ## 9일차
 - 머신러닝, 딥러닝 개인클로닝
     - 예제 리포지토리, Cloning
