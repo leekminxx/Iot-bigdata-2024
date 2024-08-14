@@ -125,6 +125,10 @@
 
     <ung src='' width="700">   
 
+    https://github.com/user-attachments/assets/fd9b413c-9fb0-49c5-9b87-50486cee702d
+
+
+
 ## 9일차
 - 머신러닝, 딥러닝 개인클로닝
     - 예제 리포지토리, Cloning
